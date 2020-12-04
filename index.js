@@ -108,8 +108,8 @@ conn.sendMessage(id, menu.menu1 ,MessageType.text);
 else if (text == '!menu2'){
 conn.sendMessage(id, menu.menu2 ,MessageType.text);
 }
-else if (text == '!ajuda'){
-conn.sendMessage(id, menu.ajuda ,MessageType.text);
+else if (text == '!menu3'){
+conn.sendMessage(id, menu.menu3 ,MessageType.text);
 }
 
    if (messageType == 'imageMessage')
