@@ -99,7 +99,7 @@ const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
 conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsApp`, MessageType.text)
 }
-if (text == '!menu'){
+if (text == '!ajuda'){
 conn.sendMessage(id, menu.menu ,MessageType.text);
 }
 else if (text == '!menu1'){
