@@ -102,7 +102,7 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 if (text == '!ajuda'){
 conn.sendMessage(id, menu.menu ,MessageType.text);
 }
-else if (text == '!menu1'){
+else if (text == '!ajuda'){
 conn.sendMessage(id, menu.menu1 ,MessageType.text);
 }
 else if (text == '!menu2'){
