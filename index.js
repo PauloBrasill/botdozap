@@ -102,11 +102,11 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 if (text == '!ajuda'){
 conn.sendMessage(id, menu.menu ,MessageType.text);
 }
-else if (text == '!ajuda'){
+else if (text == '!menu1'){
 conn.sendMessage(id, menu.menu1 ,MessageType.text);
 }
 else if (text == '!menu2'){
-conn.sendMessage(id, menu.menu2 ,MessageType.text);
+conn.sendMessage(id, "teste\r\noi", MessageType.text);
 }
 else if (text == '!menu3'){
 conn.sendMessage(id, menu.menu3 ,MessageType.text);
@@ -156,7 +156,7 @@ conn.sendMessage(id, menu.menu3 ,MessageType.text);
    {
       let caption = gifMessage.caption.toLocaleLowerCase()
       const buffer = await conn.downloadMediaMessage(m) // to decrypt & use as a buffer
-      if (caption == '!figgif')
+      if (caption == '!gif')
       {
          const stiker = await conn.downloadAndSaveMediaMessage(m) // to decrypt & save to file
 
