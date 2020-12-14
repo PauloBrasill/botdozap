@@ -1,6 +1,6 @@
 module.exports = {
 	menu: "Utilize o comando '!fig' em uma imagem para fazer uma figurinha! (Não funciona com gifs nem vídeos)\r\n\r\nAlgumas ''regras'':\r\n\r\n🚫 Por favor, não ligue para o bot! (Ligou 3 vezes, vai ser bloqueado.)\r\n🚫 Por favor, não tente travar o bot! (Nóis devolve na mesma bala 🤡)\r\n✅ Ao usar esse bot, você concorda que o youtube.com/BassDark é muito gostoso 😎👍\r\n✅ O uso deste bot é livre, você pode fazer figurinhas do que você quiser. (Exceto figurinhas animadas ;^;)\r\n✅ Você pode adicionar este bot em grupos livremente!\r\n✅ Não há necessidade de configurar nada!\r\n✅ Se você quiser, você pode interagir comigo! (Dono do bot)",
-	menu1: "Ainda em fase de testes, por favor aguardem :)",
+	menu1: "Galera, sinto muito ter que informar que o bot vai acabar em breve :(\r\n\r\nO motivo?\r\nToda hora tem alguém bugando o bot, eventualmente alguém tenta travar o bot, quase ninguém usa e dá trabalho manter o bot funcionando normalmente e sempre tem alguém reclamando que o bot parou de funcionar, chamando de lixo e tals... Eu não ganho NADA por estar fazendo isso por VOCÊS TODOS e mesmo assim tem gente que reclama... Não sou obrigado a aturar isso. Peço desculpas a quem gostava do bot, ou que pelo menos usava... Se quiserem, podem pedir meu número lá nos comentários do meu canal do YouTube que eu ensino a fazer um bot igual ao meu. youtube.com/BassDark",
 	menu2: "Ainda em fase de testes, por favor aguardem :)",
 	menu3: "Já falei pra aguardar, porra >:("
 }
